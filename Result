@@ -1,0 +1,26 @@
+alain@LAPTOP-PB8I40UQ MINGW64 ~/quetes/shell/planets (master)
+$ find
+.
+./fictional
+./fictional/arrakis.jpeg
+./fictional/coruscant.jpeg
+./fictional/cybertron.jpeg
+./inhabited
+./inhabited/arrakisi.jpeg
+./inhabited/coruscanti.jpeg
+./inhabited/cybertroni.jpeg
+./inhabited/earthi.jpeg
+./Planets.docx
+./real
+./real/dwarf-planets
+./real/dwarf-planets/pluto.jpeg
+./real/gas-giants
+./real/gas-giants/jupiter.jpeg
+./real/gas-giants/neptune.jpeg
+./real/gas-giants/saturn.jpeg
+./real/gas-giants/uranus.jpeg
+./real/telluric
+./real/telluric/earth.jpeg
+./real/telluric/mars.jpeg
+./real/telluric/mercury.jpeg
+./real/telluric/venus.jpeg
